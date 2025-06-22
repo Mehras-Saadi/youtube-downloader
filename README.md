@@ -32,10 +32,11 @@
 ```bash
 pip install pytube
 ```
-یا
+OR
+
 
 ```bash
-pip install pytube
+pip install -r requirements.txt
 ```
 
 **Run the program:**  

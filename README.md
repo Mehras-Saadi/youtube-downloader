@@ -46,7 +46,7 @@ pip install -r requirements.txt
 python youtube_downloader_gui.py
 ```
 
-**Or You can Run the executable file**
+**Or You can Run the executable file You Downloaded From Tag**
 
 
 

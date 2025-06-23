@@ -81,6 +81,6 @@ All user settings are saved automatically in `settings.json`.
 ## 🤝 Developer | توسعه‌دهنده
 
 Made by **Mehras Saadi**  
-[My GitHub Profile | گیت‌هاب من]([https://github.com/Mehras-Saadi])
+[My GitHub Profile | گیت‌هاب من](https://github.com/Mehras-Saadi)
 
 ---
